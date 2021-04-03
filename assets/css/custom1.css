@@ -793,6 +793,7 @@ input[type="submit"]:focus {
 
 .elementor-widget-heading .elementor-heading-title {
   margin: 0;
+  font-family: "Great Vibes", cursive;
 }
 
 .ast-header-break-point .main-header-bar {
